@@ -6,18 +6,12 @@
     <description>RSS feed for 5953240</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Mar 2025 00:21:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 00:55:10 +0000</lastBuildDate>
     <item>
       <title>纪录片：Node.js 起源之路</title>
       <link>https://www.bilibili.com/video/BV1kx4y1m7SM/</link>
       <description>&lt;img src="https://i1.hdslb.com/bfs/archive/fc0e2dbfff187bad0d5ac306e512fa6d6564d860.jpg@320w_200h_1c_!web-space-upload-video.webp" alt="纪录片：Node.js 起源之路"&gt;&lt;br&gt;发布日期: 2024-3-26</description>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>极速正则表达式</title>
-      <link>https://www.bilibili.com/video/BV1nK421x7xa/</link>
-      <description>&lt;img src="https://archive.biliimg.com/bfs/archive/4328a70af5d2bdc03927c391747c580360e01137.jpg@320w_200h_1c_!web-space-upload-video.webp" alt="极速正则表达式"&gt;&lt;br&gt;发布日期: 2024-4-4</description>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>你真的了解 JSON 吗？</title>
@@ -186,6 +180,12 @@
       <link>https://www.bilibili.com/video/BV1uW6uYSE7F/</link>
       <description>&lt;img src="https://i2.hdslb.com/bfs/archive/9d1f5d92e28bf06239d6c9388c05e12d8a39d01b.jpg@320w_200h_1c_!web-space-upload-video.webp" alt="什么！小小彩票，也能影响大大计算机？"&gt;&lt;br&gt;发布日期: 2024-12-30</description>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>当一个技术 UP 遭遇商单电诈！</title>
+      <link>https://www.bilibili.com/video/BV1GA97YVEc7/</link>
+      <description>&lt;img src="https://i0.hdslb.com/bfs/archive/5ad4bb573074038f6c1a99f7d6a76d336f918b68.jpg@320w_200h_1c_!web-space-upload-video.webp" alt="当一个技术 UP 遭遇商单电诈！"&gt;&lt;br&gt;发布日期: 3-4</description>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
